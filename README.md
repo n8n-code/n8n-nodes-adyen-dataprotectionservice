@@ -53,9 +53,12 @@ That's it. No configuration files. No code. It just works.
 
 ## Resources
 
-| Resource | Operations |
-|----------|------------|
-| General | Post submit a subject erasure request |
+<details>
+<summary><b>General</b> (1 operations)</summary>
+
+- Post Submit a Subject Erasure Request
+
+</details>
 
 ---
 

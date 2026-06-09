@@ -1,7 +1,7 @@
 {
   "name": "@n8n-dev/n8n-nodes-adyen-dataprotectionservice",
-  "version": "1.0.0",
-  "description": "Adyen Data Protection API provides a way for you to process Subject Erasure Requests as mandated in GDPR",
+  "version": "1.0.1",
+  "description": "Adyen Data Protection API enables GDPR Subject Erasure Request processing.",
   "license": "MIT",
   "homepage": "https://n8n-code.github.io/n8n-dev/#/n8n-nodes-adyen-dataprotectionservice",
   "keywords": [
@@ -11,7 +11,7 @@
     "n8n-community-node-package",
     "openapi",
     "swagger",
-    "api",
+    "API",
     "automation",
     "workflow",
     "adyen-dataprotectionservice"

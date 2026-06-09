@@ -8,7 +8,7 @@ import type {
 export class AdyenDataprotectionserviceApi implements ICredentialType {
 	name = 'N8nDevAdyenDataprotectionserviceApi';
 
-	displayName = 'adyen-dataprotectionservice API';
+	displayName = 'Adyen Dataprotectionservice API';
 
 	icon: Icon = { light: 'file:../nodes/AdyenDataprotectionservice/adyen-dataprotectionservice.svg', dark: 'file:../nodes/AdyenDataprotectionservice/adyen-dataprotectionservice.dark.svg' };
 
@@ -22,7 +22,7 @@ export class AdyenDataprotectionserviceApi implements ICredentialType {
 			default: 'https://ca-test.adyen.com/ca/services/DataProtectionService/v1',
 			required: true,
 			placeholder: 'https://ca-test.adyen.com/ca/services/DataProtectionService/v1',
-			description: 'The base URL of your adyen-dataprotectionservice API server',
+			description: 'The base URL of your Adyen Dataprotectionservice API server',
 		},
 		{
 			displayName: 'API Key',
